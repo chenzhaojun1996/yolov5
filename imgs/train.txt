@@ -1,0 +1,4 @@
+D:\Pycharmproject\yolov5-5.0\imgs\pic\1.jpg
+D:\Pycharmproject\yolov5-5.0\imgs\pic\2.jpg
+D:\Pycharmproject\yolov5-5.0\imgs\pic\3.jpg
+D:\Pycharmproject\yolov5-5.0\imgs\pic\4.jpg
